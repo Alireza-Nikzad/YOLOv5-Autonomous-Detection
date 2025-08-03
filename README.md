@@ -1,2 +1,11 @@
 # YOLOv5-Autonomous-Detection
-Real-time object detection on road-driving video using YOLOv5. Simulates how autonomous vehicles identify cars, pedestrians, and other objects on the road. Built and tested in Google Colab using a pretrained YOLOv5 model.
+
+This is my first object detection project using YOLOv5 — applied to a real road-driving video to simulate how autonomous vehicles detect their surroundings.
+
+What this project does:
+    
+    Uses YOLOv5 (small version) for real-time object detection
+    
+    Detects cars, pedestrians, and other road objects
+    
+    Demonstrates how detection works in the context of autonomous driving
