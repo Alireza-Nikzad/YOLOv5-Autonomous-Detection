@@ -3,6 +3,6 @@ This is my first object detection project using YOLOv5 — applied to a real roa
 
 What this project does:
 
-- Uses YOLOv5 (small version) for real-time object detection
+- Uses YOLOv5 for real-time object detection
 - Detects cars, pedestrians, and other road objects
 - Demonstrates how detection works in the context of autonomous driving
